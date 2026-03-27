@@ -1,7 +1,17 @@
 #include<iostream>
-using namespace std;
+ using namespace std; 
+  int main(){      
+       cout<< "hola world";  
+       cout<< "\nhola world";
+       cout<< "\nhola world";
+       cout<< "\nhola world";
+       cout<< "\nhola world";
+       cout<< "\nhola world";
+       cout<< "\nhola world";
+       cout<< "\nhola world";
+       cout<< "\nhola world";
+       cout<< "\nhola world";
+       cout<< "\nhola world";
+         return 0; 
+}   
 
-int main(){
-    cout<<"hello world";
-    return 0;
-}
