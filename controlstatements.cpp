@@ -10,27 +10,39 @@ int main()
 //    {
 //     cout<< i <<"\n";
 //    }
-cout<<"enter your age:";
-cin>>i;
-if (i<18 && i>0)
-{
-    cout<<"you cant come to my party\n";
-}
-else if (i==18)
-{
-    cout<<"you can come to my party but with a kids pass\n";
+// cout<<"enter your age:";
+// cin>>i;
+// if (i<18 && i>0)
+// {
+//     cout<<"you cant come to my party\n";
+// }
+// else if (i==18)
+// {
+//     cout<<"you can come to my party but with a kids pass\n";
     
-}
-else if (i>18)
-{
-    cout<<"you can come to my party\n";
+// }
+// else if (i>18)
+// {
+//     cout<<"you can come to my party\n";
     
-}
-else 
-{
-    cout<<"invalid age! PLease TRY again\n";
+// }
+// else 
+// {
+//     cout<<"invalid age! PLease TRY again\n";
     
-}
+// }
+
+// while (i<10)
+// {
+    //     cout<<"123";
+    //     i++;
+    // }
+    
+    i = 1;
+do{
+    cout<<"123  ";
+    i++;
+}while (i<10);
 
 
 
