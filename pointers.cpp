@@ -22,5 +22,23 @@ int** c =&b;
     cout<<"The address of c is "<<c<<"\n";
     cout<<"The value of c is "<<*c<<"\n";
     cout<<"The value of c at c is "<<**c<<"\n";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     return 0;
+}
+
+sum(){
+    int 
 }
